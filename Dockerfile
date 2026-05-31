@@ -1,2 +1,2 @@
 FROM ngnix
-COPY ./usr/share/ngnix/ht,l
+COPY ./usr/share/ngnix/html/
